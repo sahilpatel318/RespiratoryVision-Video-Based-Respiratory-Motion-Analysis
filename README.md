@@ -151,15 +151,6 @@ RespiratoryVision/
 └── tests/
 ```
 
-## What can honestly go on a resume
-
-After you understand and can explain the implementation:
-
-- Built an OpenCV respiratory-video pipeline extracting thoracic motion with optical flow.
-- Engineered preprocessing, band-pass filtering, spectral estimation, and reproducible synthetic evaluation.
-- Validated respiratory-rate estimates against known synthetic ground truth and documented limitations.
-
-Do **not** describe the included data as clinical. Do **not** claim diagnostic performance.
 
 ## Limitations
 
