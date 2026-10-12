@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: respiratory-vision
+Version: 0.1.0
+Summary: Research-oriented RGB-video respiratory motion analysis prototype
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Requires-Dist: opencv-python>=4.8
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: torch>=2.0
+Dynamic: license-file
